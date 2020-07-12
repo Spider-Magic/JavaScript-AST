@@ -57,7 +57,7 @@ UglifyJS: http://lisperator.net/uglifyjs/
 | 16   | NewExpression        | New 表达式    | 通常指使用 New 关键词                                 |
 | 17   | AssignmentExpression | 赋值表达式    | 通常指将函数的返回值赋值给变量                        |
 | 18   | UpdateExpression     | 更新表达式    | 通常指更新成员值，例如 i++                            |
-| 19   | Literal              | 字面量        | 通常指字符串型的字面量                                |
+| 19   | Literal              | 字面量        | 字面量                                |
 | 20   | BooleanLiteral       | 布尔型字面量  | 布尔值，例如 true false                               |
 | 21   | NumericLiteral       | 数字型字面量  | 数字，例如 100                                        |
 | 22   | StringLiteral        | 字符型字面量  | 字符串，例如 vansenb                                  |
