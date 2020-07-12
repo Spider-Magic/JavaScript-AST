@@ -2,11 +2,14 @@
 
 JavaScript 抽象语法树相关的理论知识和实战教程索引，帮助各位工程师掌握 AST 相关知识点和技术应用。
 
+
 ### AST 结构在线解析
 
 https://astexplorer.net/
 
 https://resources.jointjs.com/demos/rappid/apps/Ast/index.html
+
+
 
 ### 常用的 AST 解析库
 
@@ -17,6 +20,19 @@ Esprima: https://esprima.org/
 Acorn: https://github.com/acornjs/acorn
 
 UglifyJS: http://lisperator.net/uglifyjs/
+
+
+### 相关教程
+
+[AST 还原 obfuscator 混淆](https://blog.csdn.net/zhao_5352269/article/details/106492177)
+
+[操作AST还原混淆代码基础系列课程三:十六进制字符串还原](https://mp.weixin.qq.com/s/bB3lF5mg1wJEYEBfBPjG3g)
+
+[操作AST还原混淆代码:让代码分析变得如此简单](https://mp.weixin.qq.com/s/Iy4gaUCfb76Km7ZdOFNS9w)
+
+[AST实战:全自动解密经obfuscator混淆的加密字符串](https://mp.weixin.qq.com/s/L4FOxc7fwKB7bq0eQb2r9g)
+
+[操作AST还原混淆代码课程九:还原简单的CallExpression 类型](https://mp.weixin.qq.com/s/CI9I4D3aJUoGUvud1uFj7w)
 
 
 ### AST 节点类型对照表
