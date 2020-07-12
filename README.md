@@ -1,8 +1,24 @@
 # JavaScript-AST
 JavaScript AST
 
+### AST 结构在线解析
 
-AST 节点类型对照表
+https://astexplorer.net/
+
+https://resources.jointjs.com/demos/rappid/apps/Ast/index.html
+
+### 常用的 AST 解析库
+
+Babel: https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md
+
+Esprima: https://esprima.org/
+
+Acorn: https://github.com/acornjs/acorn
+
+UglifyJS: http://lisperator.net/uglifyjs/
+
+
+### AST 节点类型对照表
 
 | 序号 | 类型原名称           | 中文名称      | 描述                                                  |
 | ---- | -------------------- | ------------- | ----------------------------------------------------- |
